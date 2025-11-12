@@ -1,0 +1,46 @@
+[2025-11-10 09:24:25 +0000] [155] [INFO] Starting gunicorn 21.2.0
+[2025-11-10 09:24:25 +0000] [155] [INFO] Listening at: http://127.0.0.1:8080 (155)
+[2025-11-10 09:24:25 +0000] [155] [INFO] Using worker: gthread
+[2025-11-10 09:24:25 +0000] [165] [INFO] Booting worker with pid: 165
+[2025-11-10 09:24:25 +0000] [166] [INFO] Booting worker with pid: 166
+[2025-11-10 09:24:25 +0000] [167] [INFO] Booting worker with pid: 167
+[2025-11-10 09:24:25 +0000] [168] [INFO] Booting worker with pid: 168
+[2025-11-10 09:24:25 +0000] [169] [INFO] Booting worker with pid: 169
+[2025-11-10 09:24:25 +0000] [170] [INFO] Booting worker with pid: 170
+[2025-11-10 09:24:25 +0000] [171] [INFO] Booting worker with pid: 171
+[2025-11-10 09:24:25 +0000] [172] [INFO] Booting worker with pid: 172
+[2025-11-10 09:44:00 +0000] [155] [INFO] Handling signal: term
+[2025-11-10 09:44:00 +0000] [166] [INFO] Worker exiting (pid: 166)
+[2025-11-10 09:44:00 +0000] [172] [INFO] Worker exiting (pid: 172)
+[2025-11-10 09:44:00 +0000] [167] [INFO] Worker exiting (pid: 167)
+[2025-11-10 09:44:00 +0000] [168] [INFO] Worker exiting (pid: 168)
+[2025-11-10 09:44:00 +0000] [171] [INFO] Worker exiting (pid: 171)
+[2025-11-10 09:44:00 +0000] [169] [INFO] Worker exiting (pid: 169)
+[2025-11-10 09:44:01 +0000] [165] [INFO] Worker exiting (pid: 165)
+[2025-11-10 10:09:03 +0000] [113] [INFO] Starting gunicorn 21.2.0
+[2025-11-10 10:09:03 +0000] [113] [INFO] Listening at: http://127.0.0.1:8080 (113)
+[2025-11-10 10:09:03 +0000] [113] [INFO] Using worker: gthread
+[2025-11-10 10:09:03 +0000] [123] [INFO] Booting worker with pid: 123
+[2025-11-10 10:09:03 +0000] [124] [INFO] Booting worker with pid: 124
+[2025-11-10 10:09:03 +0000] [125] [INFO] Booting worker with pid: 125
+[2025-11-10 10:09:03 +0000] [126] [INFO] Booting worker with pid: 126
+[2025-11-10 10:09:03 +0000] [127] [INFO] Booting worker with pid: 127
+[2025-11-10 10:09:03 +0000] [128] [INFO] Booting worker with pid: 128
+[2025-11-10 10:09:03 +0000] [129] [INFO] Booting worker with pid: 129
+[2025-11-10 10:09:03 +0000] [130] [INFO] Booting worker with pid: 130
+[2025-11-10 11:57:18 +0000] [113] [INFO] Handling signal: term
+[2025-11-10 11:57:18 +0000] [125] [INFO] Worker exiting (pid: 125)
+[2025-11-10 11:57:19 +0000] [123] [INFO] Worker exiting (pid: 123)
+[2025-11-10 11:57:19 +0000] [124] [INFO] Worker exiting (pid: 124)
+[2025-11-10 11:57:19 +0000] [129] [INFO] Worker exiting (pid: 129)
+[2025-11-11 06:59:00 +0000] [122] [INFO] Starting gunicorn 21.2.0
+[2025-11-11 06:59:00 +0000] [122] [INFO] Listening at: http://127.0.0.1:8080 (122)
+[2025-11-11 06:59:00 +0000] [122] [INFO] Using worker: gthread
+[2025-11-11 06:59:00 +0000] [132] [INFO] Booting worker with pid: 132
+[2025-11-11 06:59:00 +0000] [133] [INFO] Booting worker with pid: 133
+[2025-11-11 06:59:00 +0000] [134] [INFO] Booting worker with pid: 134
+[2025-11-11 06:59:00 +0000] [135] [INFO] Booting worker with pid: 135
+[2025-11-11 06:59:00 +0000] [136] [INFO] Booting worker with pid: 136
+[2025-11-11 06:59:01 +0000] [137] [INFO] Booting worker with pid: 137
+[2025-11-11 06:59:01 +0000] [138] [INFO] Booting worker with pid: 138
+[2025-11-11 06:59:01 +0000] [139] [INFO] Booting worker with pid: 139
